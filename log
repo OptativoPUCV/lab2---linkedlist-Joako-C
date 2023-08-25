@@ -137,3 +137,9 @@ list.c:76:7: error: ‘List’ {aka ‘struct List’} has no member named ‘si
       |       ^~
 Compilation failed
 c3664a9
+Fri 25 Aug 2023 11:21:14 PM UTC: 
+ list.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  9|3
+total_score: 35/70
+fdd7551
